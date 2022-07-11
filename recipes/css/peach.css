@@ -41,18 +41,17 @@ body h3 {
 }
 .second-container .steps {
     background-color: #f7ede2;
-    width: 70%;
+    width: 65%;
     float: right;
     padding: 10px;
     border-radius: 10px;
 }
 .second-container .ingredients {
     background-color: #f7ede2;
-    width: 25%;
+    width: 30%;
     float: left;
     padding: 10px;
     border-radius: 10px;
-    
 }
 .second-container li {
     margin-bottom: 10px;
