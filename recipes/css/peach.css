@@ -2,3 +2,7 @@ body {
     margin: 0%;
     background-color: #ffcdb2;
 }
+.container img {
+    width: 200px;
+    height: auto;
+}
