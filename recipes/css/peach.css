@@ -2,6 +2,12 @@ body {
     margin: 0%;
     background-color: #ffcdb2;
 }
+.container {
+    background-color: aqua;
+    margin: 0 auto;
+    width: 70%;
+    max-width: 70%;
+}
 .container img {
     width: 200px;
     height: auto;
