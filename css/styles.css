@@ -16,12 +16,15 @@ header h1 {
     padding-top: 20px;
     padding-bottom: 20px;
 }
-.peach {
+.peach, .pistachio, .dragon {
     margin: 0 auto;
+}
+.peach {
+    
 }
 .pistachio {
-    margin: 0 auto;
+    
 }
 .dragon {
-    margin: 0 auto;
+   
 }
