@@ -13,4 +13,15 @@ header h1 {
 }
 .nav-bar {
     background-color: #f5ebe0;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.peach {
+    margin: 0 auto;
+}
+.pistachio {
+    margin: 0 auto;
+}
+.dragon {
+    margin: 0 auto;
 }
