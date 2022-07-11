@@ -13,18 +13,33 @@ header h1 {
 }
 .nav-bar {
     background-color: #f5ebe0;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    overflow: hidden;
 }
-.peach, .pistachio, .dragon {
+.nav-bar a {
     margin: 0 auto;
-}
-.peach {
-    
-}
-.pistachio {
-    
-}
-.dragon {
+    width: 33.33333333%;
+    float: left;
+    text-align: center;
+    padding-top: 14px;
+    padding-bottom: 14px;
+    background-color: #9a8c98;
    
+    text-decoration: none;
+    color: #22223b;
+}
+.nav-bar a:hover.peach {
+    background-color: #ffb4a2;
+    color: white;
+}
+.nav-bar a:hover.pistachio {
+    background-color: #588157;
+    color: white;
+}
+.nav-bar a:hover.dragon {
+    background-color: #ff99c8;
+    color: white;
+}
+.nav-bar a:active {
+    background-color: #4a4e69;
+    color: white;
 }
