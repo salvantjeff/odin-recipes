@@ -11,3 +11,9 @@ header {
 header h1 {
     margin: 0;
 }
+.nav-bar {
+    background-color: #f5ebe0;
+}
+.nav-bar ul {
+    margin: 0%;
+}
