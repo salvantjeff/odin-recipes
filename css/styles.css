@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    background-image: url(../img/chastity-cortijo-0qS1KQNyEX8-unsplash.jpg);
+    background-size: cover;
 }
 header {
     background-color: #d5bdaf;
