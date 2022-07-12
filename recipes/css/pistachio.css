@@ -1,4 +1,64 @@
 body {
     margin: 0%;
     background-color: #ccd5ae;
+    font-family: Calibri,Candara,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+}
+.container {
+    width: 65%;
+    max-width: 65%;
+    margin: 0% auto;
+    background-color: #faedcd;
+    padding: 0%;
+    
+    
+}
+.container img {
+    width: 500px;
+    height: auto;
+    margin-bottom: 30px;
+    
+}
+.intro {
+    background-color: #e9edc9;
+    text-align: center;
+    padding-bottom: 15px;
+    
+}
+.intro h3, .intro p {
+    text-align: left;
+    margin: 15px;
+}
+.intro h1 {
+    margin: 0;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #d4a373;
+    margin-bottom: 30px;
+}
+
+.ingredients, .steps {
+    background-color: #faedcd;
+    text-align: left;
+    padding: 15px;
+}
+.ingredients h3 {
+    margin-top: 0%;
+}
+li {
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+.steps {
+    background-color: #fefae0;
+}
+.steps h3 {
+    margin-top: 0%;
+    margin-bottom: 15px;
+}
+.images {
+    background-color: aqua;
+    width: 25%;
+    max-width: 25%;
+    margin: 0%;
+    border: 0;
 }
