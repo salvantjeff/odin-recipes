@@ -1,3 +1,68 @@
 body {
     margin: 0%;
+    
+    background-image: url("https://xoxobella.com/wp-content/uploads/2021/06/dairy_free_dragon_fruit_ice_cream_bella_bucchiotti_21.jpg");
+    background-size: cover;
+}
+.container {
+    font-size: large;
+}
+li {
+    margin-top: 0%;
+    margin-bottom: 10px;
+}
+header {
+    background-color: #ffeedd;
+    text-align: center;
+    height: 200px;
+    position: relative;
+    margin-bottom: 100px;
+}
+header h1, header h4 {
+    margin: 0;
+    margin-bottom: 15px;
+}
+.title {
+    background-color: #abf263;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    padding: 3%;
+}
+.description {
+    background-color: #ffeedd;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.description-contents {
+    
+    padding-left: 300px;
+    padding-right: 300px;
+}
+.ingredients {
+    background-color: #ffeedd;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.ingredients-contents {
+    
+    padding-left: 500px;
+    padding-right: 500px;
+}
+.steps {
+    background-color: #ffeedd;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    margin-bottom: 100px;
+}
+.steps-contents {
+   
+    padding-left: 500px;
+    padding-right: 500px;
+    
 }
