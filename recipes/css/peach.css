@@ -65,3 +65,6 @@ header {
     margin-bottom: 20px;
     color: #22223b;
 }
+li {
+    text-align: left;
+}
