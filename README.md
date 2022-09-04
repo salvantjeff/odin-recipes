@@ -1,7 +1,7 @@
 # odin-recipes
 
 ### [Live Demo](https://salvantjeff.github.io/odin-recipes/)
-![recipes](https://ibb.co/W55PPPM)
+[![Screen-Shot-2022-09-03-at-8-06-27-PM.png](https://i.postimg.cc/1R2nMX9w/Screen-Shot-2022-09-03-at-8-06-27-PM.png)](https://postimg.cc/G9PmmcTm)
 
 my first project :)
 
