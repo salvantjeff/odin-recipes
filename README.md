@@ -4,6 +4,8 @@
 
 ![Recipes landing page](/img/recipes-screen-shot.png)
 
+## Introduction
+
 my first project :)
 
 In this project the goal is to make a website that will allow the user
